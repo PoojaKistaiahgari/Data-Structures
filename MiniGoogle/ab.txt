@@ -1,0 +1,142 @@
+skills, {http://moodle18.msitprogram.net/##1=2}
+username, {http://moodle18.msitprogram.net/my/##1=3}
+switch, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+home, {http://moodle18.msitprogram.net/##1=4, http://moodle18.msitprogram.net/my/##1=2}
+skip, {http://moodle18.msitprogram.net/##1=8, http://moodle18.msitprogram.net/my/##1=1}
+expressions, {http://moodle18.msitprogram.net/##1=2}
+sat, {http://moodle18.msitprogram.net/##1=2}
+introduction, {http://moodle18.msitprogram.net/##1=6}
+required, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+log, {http://moodle18.msitprogram.net/##1=4, http://moodle18.msitprogram.net/my/##1=3}
+mahesh, {http://moodle18.msitprogram.net/##1=4}
+swamy, {http://moodle18.msitprogram.net/##1=2}
+java, {http://moodle18.msitprogram.net/##1=2}
+enabled, {http://moodle18.msitprogram.net/my/##1=1}
+renuka, {http://moodle18.msitprogram.net/##1=8}
+teacher, {http://moodle18.msitprogram.net/##1=104}
+rao, {http://moodle18.msitprogram.net/##1=2}
+your, {http://moodle18.msitprogram.net/my/##1=2}
+schedule, {http://moodle18.msitprogram.net/##1=4}
+previous, {http://moodle18.msitprogram.net/##1=2}
+jackson, {http://moodle18.msitprogram.net/##1=2}
+problem, {http://moodle18.msitprogram.net/##1=6}
+kattari, {http://moodle18.msitprogram.net/##1=4}
+fix, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+problems, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+topics, {http://moodle18.msitprogram.net/##1=2}
+holidays, {http://moodle18.msitprogram.net/##1=4}
+calendar, {http://moodle18.msitprogram.net/##1=4}
+reddy, {http://moodle18.msitprogram.net/##1=4}
+teja, {http://moodle18.msitprogram.net/##1=10}
+sridevi, {http://moodle18.msitprogram.net/##1=4}
+students, {http://moodle18.msitprogram.net/##1=2}
+raptor, {http://moodle18.msitprogram.net/##1=2}
+output, {http://moodle18.msitprogram.net/##1=2}
+main, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+may, {http://moodle18.msitprogram.net/my/##1=1}
+guest, {http://moodle18.msitprogram.net/my/##1=1}
+functions, {http://moodle18.msitprogram.net/##1=2}
+cookies, {http://moodle18.msitprogram.net/my/##1=1}
+data, {http://moodle18.msitprogram.net/##1=8}
+operators, {http://moodle18.msitprogram.net/##1=2}
+some, {http://moodle18.msitprogram.net/my/##1=1}
+krishna, {http://moodle18.msitprogram.net/##1=8}
+content, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+sriram, {http://moodle18.msitprogram.net/##1=10}
+arrays, {http://moodle18.msitprogram.net/##1=4}
+harshith, {http://moodle18.msitprogram.net/##1=20}
+includes, {http://moodle18.msitprogram.net/##1=2}
+wed, {http://moodle18.msitprogram.net/##1=2}
+code, {http://moodle18.msitprogram.net/##1=2}
+site, {http://moodle18.msitprogram.net/my/##1=2}
+charts, {http://moodle18.msitprogram.net/##1=2}
+soft, {http://moodle18.msitprogram.net/##1=2}
+sulluru, {http://moodle18.msitprogram.net/##1=12}
+iconhelp, {http://moodle18.msitprogram.net/my/##1=1}
+debugging, {http://moodle18.msitprogram.net/##1=2}
+included, {http://moodle18.msitprogram.net/##1=2}
+advanced, {http://moodle18.msitprogram.net/##1=2}
+role, {http://moodle18.msitprogram.net/##1=2}
+monday, {http://moodle18.msitprogram.net/##1=2}
+with, {http://moodle18.msitprogram.net/##1=8, http://moodle18.msitprogram.net/my/##1=1}
+ganga, {http://moodle18.msitprogram.net/##1=10}
+theme, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+logged, {http://moodle18.msitprogram.net/##1=4, http://moodle18.msitprogram.net/my/##1=2}
+moodlelogo, {http://moodle18.msitprogram.net/##1=2}
+etc, {http://moodle18.msitprogram.net/##1=2}
+style, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+allow, {http://moodle18.msitprogram.net/my/##1=1}
+path, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+today, {http://moodle18.msitprogram.net/##1=2}
+month, {http://moodle18.msitprogram.net/##1=4}
+structures, {http://moodle18.msitprogram.net/##1=8}
+presentation, {http://moodle18.msitprogram.net/##1=2}
+nbsp, {http://moodle18.msitprogram.net/##1=34, http://moodle18.msitprogram.net/my/##1=1}
+you, {http://moodle18.msitprogram.net/##1=4, http://moodle18.msitprogram.net/my/##1=2}
+krupakar, {http://moodle18.msitprogram.net/##1=12}
+and, {http://moodle18.msitprogram.net/##1=8}
+language, {http://moodle18.msitprogram.net/##1=2}
+msit, {http://moodle18.msitprogram.net/##1=2}
+nidamanuri, {http://moodle18.msitprogram.net/##1=10}
+access, {http://moodle18.msitprogram.net/my/##1=1}
+algorithms, {http://moodle18.msitprogram.net/##1=6}
+next, {http://moodle18.msitprogram.net/##1=2}
+flow, {http://moodle18.msitprogram.net/##1=4}
+vani, {http://moodle18.msitprogram.net/##1=4}
+oops, {http://moodle18.msitprogram.net/##1=2}
+second, {http://moodle18.msitprogram.net/##1=2}
+page, {http://moodle18.msitprogram.net/##1=4, http://moodle18.msitprogram.net/my/##1=1}
+prasad, {http://moodle18.msitprogram.net/##1=10}
+year, {http://moodle18.msitprogram.net/##1=2}
+yui, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+first, {http://moodle18.msitprogram.net/##1=2}
+available, {http://moodle18.msitprogram.net/##1=4}
+amp, {http://moodle18.msitprogram.net/##1=4}
+kiran, {http://moodle18.msitprogram.net/##1=8}
+lova, {http://moodle18.msitprogram.net/##1=10}
+venkateshwar, {http://moodle18.msitprogram.net/##1=2}
+fri, {http://moodle18.msitprogram.net/##1=2}
+multi, {http://moodle18.msitprogram.net/##1=2}
+inclusion, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+mohan, {http://moodle18.msitprogram.net/##1=18}
+control, {http://moodle18.msitprogram.net/##1=2}
+solving, {http://moodle18.msitprogram.net/##1=6}
+recursion, {http://moodle18.msitprogram.net/##1=2}
+types, {http://moodle18.msitprogram.net/##1=2}
+moodle, {http://moodle18.msitprogram.net/##1=4, http://moodle18.msitprogram.net/my/##1=2}
+course, {http://moodle18.msitprogram.net/##1=4}
+credit, {http://moodle18.msitprogram.net/##1=2}
+batch, {http://moodle18.msitprogram.net/##1=2}
+december, {http://moodle18.msitprogram.net/##1=4}
+alt, {http://moodle18.msitprogram.net/##1=2}
+sun, {http://moodle18.msitprogram.net/##1=2}
+bandi, {http://moodle18.msitprogram.net/##1=8}
+password, {http://moodle18.msitprogram.net/my/##1=2}
+browser, {http://moodle18.msitprogram.net/my/##1=1}
+tue, {http://moodle18.msitprogram.net/##1=2}
+pointers, {http://moodle18.msitprogram.net/##1=2}
+class, {http://moodle18.msitprogram.net/my/##1=1}
+thu, {http://moodle18.msitprogram.net/##1=2}
+forgotten, {http://moodle18.msitprogram.net/my/##1=1}
+revanth, {http://moodle18.msitprogram.net/##1=4}
+gandi, {http://moodle18.msitprogram.net/##1=10}
+rajesh, {http://moodle18.msitprogram.net/##1=4}
+must, {http://moodle18.msitprogram.net/my/##1=1}
+arla, {http://moodle18.msitprogram.net/##1=4}
+not, {http://moodle18.msitprogram.net/##1=4, http://moodle18.msitprogram.net/my/##1=2}
+are, {http://moodle18.msitprogram.net/##1=6, http://moodle18.msitprogram.net/my/##1=2}
+standard, {http://moodle18.msitprogram.net/##1=4, http://moodle18.msitprogram.net/my/##1=1}
+order, {http://moodle18.msitprogram.net/##1=2, http://moodle18.msitprogram.net/my/##1=1}
+navigation, {http://moodle18.msitprogram.net/##1=4}
+dimensional, {http://moodle18.msitprogram.net/##1=2}
+long, {http://moodle18.msitprogram.net/##1=2}
+the, {http://moodle18.msitprogram.net/##1=4, http://moodle18.msitprogram.net/my/##1=3}
+courses, {http://moodle18.msitprogram.net/##1=10, http://moodle18.msitprogram.net/my/##1=1}
+jaychandra, {http://moodle18.msitprogram.net/##1=24}
+remember, {http://moodle18.msitprogram.net/my/##1=1}
+input, {http://moodle18.msitprogram.net/##1=2}
+mon, {http://moodle18.msitprogram.net/##1=2}
+nirupama, {http://moodle18.msitprogram.net/##1=4}
+swathi, {http://moodle18.msitprogram.net/##1=20}
+week, {http://moodle18.msitprogram.net/##1=2}
+offered, {http://moodle18.msitprogram.net/##1=2}
